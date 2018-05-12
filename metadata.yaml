@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9921'
     url: http://www.gutenberg.org/2009/agents/9921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21432#Aunt-Judith--The-Story-of-a-Loving-Life
 gutenberg_issued: '2007-05-14'
 gutenberg_type: Text
 identifiers:
